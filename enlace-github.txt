@@ -1,7 +1,7 @@
 Después de publicar el proyecto, reemplaza estos ejemplos por tus enlaces reales:
 
 Repositorio:
-https://github.com/TU-USUARIO/TU-REPOSITORIO
+https://github.com/marieangonzalez/Laboratorio-bootstrap-javascript
 
 Página publicada:
-https://TU-USUARIO.github.io/TU-REPOSITORIO/
+https://marieangonzalez.github.io/Laboratorio-bootstrap-javascript/
