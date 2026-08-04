@@ -1,8 +1,8 @@
 LABORATORIO: CREACIÓN DE UNA PÁGINA WEB RESPONSIVA CON BOOTSTRAP, CSS Y JAVASCRIPT
 
-Nombre: Marieangieliz González
+Nombre: Marieangieliz González de Jesus
 Curso: Desarrollo Web
-Fecha: ______________________
+Fecha: WADE 1000L-1ONL - Front-End Technologies and User Interface (UI) and Laboratory
 
 DESCRIPCIÓN
 Este proyecto consiste en una página web responsiva creada con HTML5, Bootstrap,
@@ -11,7 +11,7 @@ ejemplos interactivos de los conceptos estudiados en el módulo.
 
 CONTENIDO DEL PROYECTO
 - index.html: contiene la estructura semántica de HTML5.
-- css/style.css: contiene los estilos personalizados y una media query.
+- css/style.css: contiene los estilos personalizados y una media querie.
 - js/script.js: contiene las variables, tipos de datos, arreglos, objetos,
   condicionales, bucles y funciones.
 - img/logo-laboratorio.svg: imagen utilizada en el encabezado.
@@ -35,7 +35,7 @@ que no existieran errores.
 
 ENLACE DEL PROYECTO EN GITHUB
 Repositorio:
-https://github.com/ESCRIBE-AQUI-TU-USUARIO/ESCRIBE-AQUI-EL-REPOSITORIO
+ https://marieangonzalez.github.io/Laboratorio-bootstrap-javascript/
 
 GitHub Pages:
-https://ESCRIBE-AQUI-TU-USUARIO.github.io/ESCRIBE-AQUI-EL-REPOSITORIO/
+https://github.com/marieangonzalez/Laboratorio-bootstrap-javascript/settings/pages
