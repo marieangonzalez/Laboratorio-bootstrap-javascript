@@ -1,0 +1,59 @@
+/* Estilos generales del documento */
+body {
+    background-color: #f4f6f8;
+    color: #212529;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Sección principal del encabezado */
+.hero {
+    background: linear-gradient(135deg, #dbeafe, #f5d0fe);
+    border-bottom: 1px solid #d7dce1;
+}
+
+.hero-image {
+    width: 100%;
+    max-width: 360px;
+}
+
+/* Tarjetas del laboratorio */
+.card {
+    border: 0;
+    border-radius: 16px;
+}
+
+.card-body {
+    padding: 1.5rem;
+}
+
+/* Área donde se muestran los resultados de JavaScript */
+.resultado {
+    min-height: 130px;
+    padding: 1rem;
+    overflow-x: auto;
+    white-space: pre-wrap;
+    background-color: #111827;
+    color: #f9fafb;
+    border-radius: 10px;
+}
+
+/* Mejora visual de los botones */
+.btn {
+    border-radius: 8px;
+    font-weight: 600;
+}
+
+/* Ajustes para pantallas pequeñas */
+@media (max-width: 576px) {
+    .hero {
+        text-align: center;
+    }
+
+    .hero h1 {
+        font-size: 2rem;
+    }
+
+    .card-body {
+        padding: 1.2rem;
+    }
+}

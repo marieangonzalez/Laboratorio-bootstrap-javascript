@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-labelledby="title desc">
+  <title id="title">Laboratorio de desarrollo web</title>
+  <desc id="desc">Computadora con símbolos de HTML, CSS y JavaScript.</desc>
+  <rect width="600" height="420" rx="32" fill="#ffffff"/>
+  <rect x="80" y="55" width="440" height="270" rx="18" fill="#1f2937"/>
+  <rect x="105" y="82" width="390" height="215" rx="10" fill="#dbeafe"/>
+  <text x="300" y="155" text-anchor="middle" font-size="54" font-family="Arial" font-weight="700" fill="#2563eb">&lt;/&gt;</text>
+  <text x="300" y="215" text-anchor="middle" font-size="34" font-family="Arial" font-weight="700" fill="#111827">HTML • CSS • JS</text>
+  <rect x="245" y="325" width="110" height="22" rx="5" fill="#4b5563"/>
+  <rect x="190" y="347" width="220" height="22" rx="11" fill="#9ca3af"/>
+</svg>
